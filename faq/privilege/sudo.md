@@ -1,6 +1,6 @@
 # Add user to sudo
 
-Use ```usemod``` command to add user to group
+Use ```usemod``` command to add user to group.
 
 usermod --help
 
