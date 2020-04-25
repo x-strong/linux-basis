@@ -60,4 +60,4 @@ NTP synchronized: no
  RTC in local TZ: no
       DST active: n/a
 ```
-![set-time screenshot](Set%20current%20datetime.png?raw=true)
+![set-time screenshot](screenshot/time/Set%20current%20datetime.png?raw=true)
